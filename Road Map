@@ -1,14 +1,72 @@
 This is the step by step guidance to become DevOps Engineer.
 
 (1) Git
+    (a) Base Command
+    (b) Pull Request
+    (c) Branching
+    (d) Merging
+
 (2) Programming Language
+    (a) Python
+    (b) Go
+    (c) Javascript
+
 (3) Operating System
+    (a) Shell Command
+    (b) Filesystem
+    (c) Networking
+    (d) Virtualization
+
 (4) Network & Security
+   (a) OSI Model
+   (b) HTTP
+   (c) DNS
+   (d) SSH
+   (e) Security Tools
+
 (5) Server Management
+    (a) Server Proxy 
+    (b) Caching Server
+    (c) Firewall
+    (d) Web Server
+
 (6) Container
+    (a) Running Containers
+    (b) Docker Files
+    (c) Networking
+    (d) Docker Compose
+
 (7) Container Orchestration
+    (a) Components
+    (b) CLI
+    (c) Namespaces
+    (d) Administer
+    (e) Deployment
+
 (8) Infrastructure as Code (IaC)
+    (a) Infrastructure Provisioning
+    (b) Configuration Managment
+    (c) Service Mesh
+
 (9) CI/CD (Continuous Integration and Continuous Delivery/Deployment)
+    (a) SetUp Server
+    (b) Integration
+    (c) Pipelines Tools
+
 (10) Monitoring & Observatibility
+    (a) Infrastructure Monitoring
+    (b) Application Monitoring
+    (c) Logs Management
+
 (11) Cloud Provider
+    (a) IAAS, PAAS, SAAS
+    (b) Availability
+    (c) Design & Implementation
+    (d) Management
+
 (12) Software Engineering Practice
+    (a) Scrum
+    (b) Backlog Management
+    (c) Built-In Quality
+    (d) Communication
+    (e) Troubleshooting
